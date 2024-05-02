@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # ☀️ Explore the Weather: React-based Weather App
 
 🌦️ Delighted to present my latest creation: a sleek and intuitive Weather App developed using React.js! 💻✨
@@ -20,6 +21,9 @@ With this app, you can effortlessly stay informed about current weather conditio
 
 ## Website
 Check out the Weather app [here](https://kt-react-weatherapp.netlify.app/)
+=======
+# Weather-App
+>>>>>>> 8d3f6171626271d46bcc6e66437c7c6f24475375
 =======
 # Weather-App
 >>>>>>> 8d3f6171626271d46bcc6e66437c7c6f24475375
